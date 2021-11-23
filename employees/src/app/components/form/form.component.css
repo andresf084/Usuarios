@@ -1,0 +1,46 @@
+.formDiv {
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.formLabel {
+    width: 300px;
+    height: 100px;
+    background-color: green;
+}
+
+.labelDiv {
+    margin: 5px;
+}
+
+.textDiv {
+    width: 160px;
+}
+
+.contenido {
+    width: 500px;
+    margin: 0 auto;
+}
+  
+.error-validation{
+    color:red;
+    border: solid 5px red;
+}
+  
+.success-validation{
+    color:green;
+    border: solid 5px green;
+}
+
+.formSearch {
+    background-color:lightblue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 0px auto;
+    margin-top: 20px;
+}
+
+.tableMargin {
+    margin: 20px;
+}
